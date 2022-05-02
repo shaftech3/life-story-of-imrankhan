@@ -84,6 +84,7 @@ img {
 .menu li {
 
     float: left;
+    margin-left: -33px
 }
 .menu ul li a {
 background:fixed;

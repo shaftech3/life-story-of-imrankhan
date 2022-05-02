@@ -67,11 +67,6 @@ img {
         filter: grayscale(0%);
     }
 }
-.table,td,th{
-    border-radius: 5px;
-    border-color: #222;
-    border-style: double;
-}
 
 
 .menu{
